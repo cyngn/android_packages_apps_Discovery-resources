@@ -15,4 +15,20 @@
 -->
 
 <resources>
+    <string name="nudge_notif_not_now">Not now</string>
+    <string name="nudge_notif_no">No</string>
+    <string name="nudge_notif_enable">Enable</string>
+    <string name="nudge_notif_install">Install</string>
+
+    <!-- Nudge strings -->
+    <string name="assist_nudge_notif_small_title">Meet %s</string>
+    <string name="assist_nudge_notif_small_body">Your personal assistant</string>
+
+    <string name="assist_hi">Hi. I\'m %s.</string>
+    <string name="assist_nudge_notif_body_install">Cyanogen has integrated %s to bring you
+        exclusive features that make things easier and keep you up to date on what
+        matters.</string>
+    <string name="assist_nudge_notif_body_enable">By selecting enable, Cortana becomes your
+        default personal assistant and you will be able to use the \"Hey Cortana\" voice command
+        to accomplish tasks, set alarms, create reminders, and more.</string>
 </resources>
