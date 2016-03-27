@@ -16,5 +16,17 @@
      limitations under the License.
 -->
 <resources>
+  <string name="nudge_notif_not_now">อย่าเพิ่ง</string>
+  <string name="nudge_notif_no">ไม่</string>
+  <string name="nudge_notif_enable">เปิดใช้งาน</string>
+  <string name="nudge_notif_install">ติดตั้ง</string>
   <!-- Nudge strings -->
+  <string name="assist_nudge_notif_small_title">พบกับ %s</string>
+  <string name="assist_nudge_notif_small_body">ผู้ช่วยส่วนตัวของคุณ</string>
+  <string name="assist_hi">สวัสดี ฉันคือ %s</string>
+  <string name="assist_nudge_notif_body_install">Cyanogen ได้นำ %s เข้ามาบูรณาการเพื่อ
+        นำเสนอคุณสมบัติพิเศษเพื่อให้การใช้งานง่ายขึ้นและให้คุณก้าวทันใน        สิ่งที่สำคัญ</string>
+  <string name="assist_nudge_notif_body_enable">เมื่อเปิดใช้งาน Cortana จะกลายมาเป็น
+        ผู้ช่วยส่วนตัว และคุณสามารถใช้คำสั่งอย่าง \"Hey Cortana\" ในการออกคำสั่ง
+        เพื่อให้ทำสิ่งต่าง ๆ ตั้งนาฬิกาปลุก สร้างข้อความเตือน และอื่น ๆ อีกมาก</string>
 </resources>

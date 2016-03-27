@@ -18,10 +18,12 @@
 <resources>
   <string name="nudge_notif_not_now">לא עכשיו</string>
   <string name="nudge_notif_no">לא</string>
-  <string name="nudge_notif_enable">אפשר</string>
+  <string name="nudge_notif_enable">הפעל</string>
   <string name="nudge_notif_install">התקן</string>
   <!-- Nudge strings -->
   <string name="assist_nudge_notif_small_title">הכירו את %s</string>
-  <string name="assist_nudge_notif_small_body">העוזרת האישית שלך</string>
+  <string name="assist_nudge_notif_small_body">המסייע האישי שלך</string>
   <string name="assist_hi">היי. אני %s.</string>
+  <string name="assist_nudge_notif_body_install">Cyanogen שילבה את %s כדי לספק לך תכונות בלעדיות שיקלו עליך ויעדכנו אותך בכל הנושאים החשובים לך.</string>
+  <string name="assist_nudge_notif_body_enable">ע\"י הבחירה ב\"הפעל\", Cortana תהפוך להיות העוזרת האישית שלך כברירת המחדל, ותוכל להשתמש בפקודה הקולית \"הי Cortana\" כדי לבצע משימות, לכוון שעונים מעוררים, ליצור תזכורות ועוד.</string>
 </resources>

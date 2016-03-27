@@ -21,6 +21,10 @@
   <string name="nudge_notif_enable">Włącz</string>
   <string name="nudge_notif_install">Instaluj</string>
   <!-- Nudge strings -->
+  <string name="assist_nudge_notif_small_title">Poznaj %s</string>
   <string name="assist_nudge_notif_small_body">Twój osobisty asystent</string>
   <string name="assist_hi">Cześć. Jestem %s.</string>
+  <string name="assist_nudge_notif_body_enable">Włączając to, Cortana staje się
+        domyślną osobistą asystentką, którą uaktywnisz wypowiadając komendę \"Hej Cortana\",
+        aby dokończyć zadania, ustawiać alarmy, przypomnienia i wiele więcej.</string>
 </resources>

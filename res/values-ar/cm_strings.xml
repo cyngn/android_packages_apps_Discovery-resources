@@ -16,5 +16,18 @@
      limitations under the License.
 -->
 <resources>
+  <string name="nudge_notif_not_now">ليس الآن</string>
+  <string name="nudge_notif_no">لا</string>
+  <string name="nudge_notif_enable">تمكين</string>
+  <string name="nudge_notif_install">تثبيت</string>
   <!-- Nudge strings -->
+  <string name="assist_nudge_notif_small_title">تلبية %s</string>
+  <string name="assist_nudge_notif_small_body">المساعد الشخصي الخاص بك</string>
+  <string name="assist_hi">مرحبا. أنا %s.</string>
+  <string name="assist_nudge_notif_body_install">Cyanogen قامت بدمج %s لتوفير
+        ميزات حصرية التي تجعل الأمر أسهل، وتبقيك على اطلاع
+        بما يجري.</string>
+  <string name="assist_nudge_notif_body_enable">عن طريق تحديد تمكين، تصبح Cortana
+        مساعدك الشخصي الافتراضي وسيكون بمقدورك استخدام  الأمر الصوتي \"مرحباً Cortana\"
+        لإنجاز المهام، ضبط التنبيهات وإنشاء تذكيرات والمزيد.</string>
 </resources>

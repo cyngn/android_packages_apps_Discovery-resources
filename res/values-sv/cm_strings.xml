@@ -18,6 +18,16 @@
 <resources>
   <string name="nudge_notif_not_now">Inte nu</string>
   <string name="nudge_notif_no">Nej</string>
+  <string name="nudge_notif_enable">Aktivera</string>
   <string name="nudge_notif_install">Installera</string>
   <!-- Nudge strings -->
+  <string name="assist_nudge_notif_small_title">Möt %s</string>
+  <string name="assist_nudge_notif_small_body">Din personliga assistent</string>
+  <string name="assist_hi">Hej. Jag är %s.</string>
+  <string name="assist_nudge_notif_body_install">Cyanogen har integrerat %s för att ge dig
+        exklusiva funktioner som underlättar och håller dig uppdaterad om vad som är
+        viktigt.</string>
+  <string name="assist_nudge_notif_body_enable">Genom att aktivera blir Cortana din
+        förvalda personliga assistent och du kommer att kunna använda röstkommandot \"Hey Cortana\"
+        för att utföra uppgifter, ställa in alarm, skapa påminnelser, och mycket mer.</string>
 </resources>

@@ -16,5 +16,14 @@
      limitations under the License.
 -->
 <resources>
+  <string name="nudge_notif_not_now">Не сад</string>
+  <string name="nudge_notif_no">Не</string>
+  <string name="nudge_notif_enable">Омогућено</string>
+  <string name="nudge_notif_install">Инсталирано</string>
   <!-- Nudge strings -->
+  <string name="assist_nudge_notif_small_title">Упознај %s</string>
+  <string name="assist_nudge_notif_small_body">Твој лични помоћник</string>
+  <string name="assist_hi">Здраво. Ја сам %s.</string>
+  <string name="assist_nudge_notif_body_install">Cyanogen има интегрисан %s који ти доноси ексклузивне могућности које олакшавају ствари и редовно те обавештава о битним стварима.</string>
+  <string name="assist_nudge_notif_body_enable">Одабиром омогућавања, Cortana постаје твој лични помоћник и моћи ћеш користити гласовну команду \"Hey Cortana\" да извршиш задатке, поставке аларма, креираш подсетник и слично.</string>
 </resources>

@@ -18,6 +18,7 @@
 <resources>
   <string name="nudge_notif_not_now">Nu acum</string>
   <string name="nudge_notif_no">Nu</string>
+  <string name="nudge_notif_install">Instalare</string>
   <!-- Nudge strings -->
   <string name="assist_nudge_notif_small_body">Asistentul tău personal</string>
   <string name="assist_hi">Salut. Eu sunt %s.</string>
