@@ -16,5 +16,18 @@
      limitations under the License.
 -->
 <resources>
+  <string name="nudge_notif_not_now">Jangan sekarang</string>
+  <string name="nudge_notif_no">Tidak</string>
+  <string name="nudge_notif_enable">Mengaktifkan</string>
+  <string name="nudge_notif_install">Menginstal</string>
   <!-- Nudge strings -->
+  <string name="assist_nudge_notif_small_title">Menemukan %s</string>
+  <string name="assist_nudge_notif_small_body">Asisten pribadi Anda</string>
+  <string name="assist_hi">Hai. Saya %s.</string>
+  <string name="assist_nudge_notif_body_install">Cyanogen telah memadukan %s guna menghadirkan
+        fitur eksklusif yang mempermudah banyak hal, dan secara aktual mengabari Anda
+        akan hal yang penting.</string>
+  <string name="assist_nudge_notif_body_enable">Jika Aktifkan dipilih, Cortana akan menjadi
+        asisten pribadi standar, dan Anda akan dapat menggunakan perintah suara \"Hei Cortana\"
+        untuk menyelesaikan tugas-tugas, mengatur alarm, membuat pengingat, dan banyak lagi.</string>
 </resources>
