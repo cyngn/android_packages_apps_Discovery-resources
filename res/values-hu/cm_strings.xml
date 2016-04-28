@@ -21,6 +21,13 @@
   <string name="nudge_notif_enable">Engedélyezve</string>
   <string name="nudge_notif_install">Telepítés</string>
   <!-- Nudge strings -->
+  <string name="assist_nudge_notif_small_title">Ismerje meg a %s</string>
   <string name="assist_nudge_notif_small_body">Személyi asszisztens</string>
   <string name="assist_hi">Szia. Én %s vagyok.</string>
+  <string name="assist_nudge_notif_body_install">%s integrálásra került a Cyanogen romba,
+        hogy exkluzív szolgáltatásokat biztosítsunk, melyek egyszerűsítik a dolgait, valamint
+        naprakészen tartsuk, hogy mi a fontos.</string>
+  <string name="assist_nudge_notif_body_enable">Az engedélyezés kiválasztásával, a Cortana lehet az ön
+        alapértelmezett személyi asszisztense és használhatja majd a \"Hey Cortana\" hangutasítást,
+        létrehozhat feladatokat, beállíthat riasztásokat, létrehozhat emlékeztetőket, és így tovább.</string>
 </resources>
