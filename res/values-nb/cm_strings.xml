@@ -16,5 +16,20 @@
      limitations under the License.
 -->
 <resources>
+  <string name="nudge_notif_not_now">Ikke nå</string>
+  <string name="nudge_notif_no">Nei</string>
+  <string name="nudge_notif_enable">Aktiver</string>
+  <string name="nudge_notif_install">Installer</string>
   <!-- Nudge strings -->
+  <string name="assist_nudge_notif_small_title">Møt %s</string>
+  <string name="assist_nudge_notif_small_body">Din personlige assistent</string>
+  <string name="assist_hi">Hei. Jeg er %s.</string>
+  <string name="assist_nudge_notif_body_install">Cyanogen har integrert %s for å gi deg
+        eksklusive funksjoner som gjør ting enklere og holder deg oppdatert på hva som er
+        viktig.</string>
+  <string name="assist_nudge_notif_body_enable">Ved å aktivere, blir Cortana din
+        standard personlige assistent og du kan
+bruke \"Hey Cortana\" stemme kommandoen
+        for å gjøre ting, sette alarmer, minne deg på noe,
+og mer.</string>
 </resources>
