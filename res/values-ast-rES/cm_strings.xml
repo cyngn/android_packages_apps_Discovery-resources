@@ -16,5 +16,18 @@
      limitations under the License.
 -->
 <resources>
+  <string name="nudge_notif_not_now">Agora non</string>
+  <string name="nudge_notif_no">Non</string>
+  <string name="nudge_notif_enable">Habilitar</string>
+  <string name="nudge_notif_install">Instalar</string>
   <!-- Nudge strings -->
+  <string name="assist_nudge_notif_small_title">Conoz a %s</string>
+  <string name="assist_nudge_notif_small_body">La to asistente personal</string>
+  <string name="assist_hi">Hola, soi %s.</string>
+  <string name="assist_nudge_notif_body_install">Cyanogen integró %s pa date
+        carauterístiques que faen les coses más cencielles y te caltienen anováu no
+        qu\'importa.</string>
+  <string name="assist_nudge_notif_body_enable">Esbillando Habilitar, Cortana conviértese
+        na to asistente personal y sedrás a usar el comandu de voz «Ei Cortana»
+        pa facer xeres, afitar alarmes, crear recordatorios y más.</string>
 </resources>
