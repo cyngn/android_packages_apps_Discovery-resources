@@ -16,5 +16,14 @@
      limitations under the License.
 -->
 <resources>
+  <string name="nudge_notif_not_now">Не цяпер</string>
+  <string name="nudge_notif_no">Не</string>
+  <string name="nudge_notif_enable">Задзейнічаць</string>
+  <string name="nudge_notif_install">Усталяваць</string>
   <!-- Nudge strings -->
+  <string name="assist_nudge_notif_small_title">Пазнаёмцесь, %s</string>
+  <string name="assist_nudge_notif_small_body">Ваш асабісты дапаможнік</string>
+  <string name="assist_hi">Прыветанне, я %s.</string>
+  <string name="assist_nudge_notif_body_install">Cyanogen інтаграваў %s, каб даць вам эксклюзіўныя магчымасці, якія робяць рэчы прасцей ды падтрымліваюць вас у курсе новых падзей.</string>
+  <string name="assist_nudge_notif_body_enable">Калі вы ўключыцце гэтую функцыю, Cortana стане вашым асабістым дапаможнікам па змаўчанні. Вы атрымаеце магцымасць выкарыстоўваць галасавы загад \"Hey Cortana\", каб выконваць задачы, ўсталёўваць будзільнік, рабіць напамінкі ды шмат іншае.</string>
 </resources>
