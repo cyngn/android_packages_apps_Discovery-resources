@@ -31,4 +31,10 @@
     <string name="assist_nudge_notif_body_enable">By selecting enable, Cortana becomes your
         default personal assistant and you will be able to use the \"Hey Cortana\" voice command
         to accomplish tasks, set alarms, create reminders, and more.</string>
+
+    <!-- MOD Lock -->
+    <string name="mod_lock_title">Lock screen mods</string>
+    <string name="mod_lock_subhead">Supercharge your lock screen</string>
+    <string name="mod_lock_message">Experience social &amp; news content directly on your lock screen. Go to settings and enable your lock screen mod.</string>
+    <string name="mod_lock_accept_action">Settings</string>
 </resources>
