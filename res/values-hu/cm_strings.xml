@@ -30,4 +30,5 @@
   <string name="assist_nudge_notif_body_enable">Az engedélyezés kiválasztásával, a Cortana lehet az ön
         alapértelmezett személyi asszisztense és használhatja majd a \"Hey Cortana\" hangutasítást,
         létrehozhat feladatokat, beállíthat riasztásokat, létrehozhat emlékeztetőket, és így tovább.</string>
+  <!-- MOD Lock -->
 </resources>

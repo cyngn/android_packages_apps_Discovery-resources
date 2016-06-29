@@ -29,4 +29,9 @@
   <string name="assist_nudge_notif_body_enable">Valitsemalla ota käyttöön, Cortanasta tulee sinun
         henkilökohtainen avustaja, ja voit käyttää äänikomentoa \"Hei Cortana\"
         käyttääksesi toimintoja, asettaaksesi hälytyksiä, luodaksesi muistutuksia, ja niin edelleen.</string>
+  <!-- MOD Lock -->
+  <string name="mod_lock_title">Lukitusnäytön modit</string>
+  <string name="mod_lock_subhead">Tehokäytä lukitusnäyttöäsi</string>
+  <string name="mod_lock_message">Koe sosiaalinen media &amp; uutiset suoraan luktusnäytölläsi. Ota lukitusnäytön modit käyttöön Asetuksista.</string>
+  <string name="mod_lock_accept_action">Asetukset</string>
 </resources>

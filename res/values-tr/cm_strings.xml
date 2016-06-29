@@ -26,4 +26,5 @@
   <string name="assist_hi">Merhaba. Ben %s.</string>
   <string name="assist_nudge_notif_body_install">Cyanogen işleri kolaylaştırmak ve önemli olan üzerinde sizi güncel tutmak üzere ayrıcalıklı özellikler sunabilmek amacıyla %s entegre etmiştir.</string>
   <string name="assist_nudge_notif_body_enable">Etkinleştir seçildiğinde, Cortana varsayılan kişisel asistanınız olur ve \"Hey Cortana\" sesli komutunu kullanarak görevleri yerine getirebilir, alarmlar kurabilir, hatırlatıcılar oluşturabilir ve daha pek çok şey yapabilirsiniz.</string>
+  <!-- MOD Lock -->
 </resources>

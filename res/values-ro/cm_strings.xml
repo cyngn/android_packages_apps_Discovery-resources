@@ -22,4 +22,5 @@
   <!-- Nudge strings -->
   <string name="assist_nudge_notif_small_body">Asistentul tău personal</string>
   <string name="assist_hi">Salut. Eu sunt %s.</string>
+  <!-- MOD Lock -->
 </resources>

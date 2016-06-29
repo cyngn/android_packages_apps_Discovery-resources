@@ -26,4 +26,5 @@
   <string name="assist_hi">안녕하세요. 저는 %s입니다.</string>
   <string name="assist_nudge_notif_body_install">Cyanogen은 사용자가 최신 상태를 유지하고 보다 쉽게 사용할 수 있도록 특수한 기능을 제공하여 %s을 통합하였습니다.</string>
   <string name="assist_nudge_notif_body_enable">활성화하면 Cortana가 사용자의 기본 개인 도우미가 되며 사용자는 할 일, 알람, 알림 등을 하기 위해 \"Hey Cortana\" 음성 명령으로 사용할 수 있습니다.</string>
+  <!-- MOD Lock -->
 </resources>

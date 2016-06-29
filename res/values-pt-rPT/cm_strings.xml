@@ -26,4 +26,9 @@
   <string name="assist_hi">Olá. Sou a %s.</string>
   <string name="assist_nudge_notif_body_install">A %s foi integrada na Cyanogen para proporcionar-lhe funcionalidades exclusivas de forma a facilitar-lhe a vida e mantê-lo atualizado com o que importa.</string>
   <string name="assist_nudge_notif_body_enable">Ao selecionar \'Ativar\', a Cortana tornar-se-á a sua assistente pessoal pré-definida e será possível utilizar o comando de voz \"Hey Cortana\" para realizar tarefas, definir alarmes, criar lembretes, etc.</string>
+  <!-- MOD Lock -->
+  <string name="mod_lock_title">Mods do Ecrã de Bloqueio</string>
+  <string name="mod_lock_subhead">Preencha o seu ecrã de bloqueio</string>
+  <string name="mod_lock_message">Obtenha conteúdos sociais e notícias diretamente no seu ecrã de bloqueio. Vá às Definições e ative os Mods do Ecrã de Bloqueio.</string>
+  <string name="mod_lock_accept_action">Definições</string>
 </resources>

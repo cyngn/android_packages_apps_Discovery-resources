@@ -26,4 +26,9 @@
   <string name="assist_hi">Здравей. Аз съм %s.</string>
   <string name="assist_nudge_notif_body_install">Cyanogen интегрира %s за да Ви предостави изключителни възможности, които правят нещата по-лесни, и Ви държи информирани за нови разработки.</string>
   <string name="assist_nudge_notif_body_enable">Избирайки Разреши, Cortana става Вашият личен асистент, и с гласовата команда \"Хей Cortana\" можете да изпълненявате задачи да настройвате аларми, напомняния и т. н.</string>
+  <!-- MOD Lock -->
+  <string name="mod_lock_title">Модули на заключен екран</string>
+  <string name="mod_lock_subhead">Напълнете екрана за заключване</string>
+  <string name="mod_lock_message">Насладете се на социалните мрежи и новини директно от екрана за заключване. Отворете настройките и активирайте модулите за заключване на екрана.</string>
+  <string name="mod_lock_accept_action">Настройки</string>
 </resources>

@@ -30,4 +30,5 @@
   <string name="assist_nudge_notif_body_enable">Si vous sélectionnez activer, Cortana devient votre
         assistant personnel par défaut et vous pourrez utiliser la commande vocale « Hey Cortana »
         pour réaliser des tâches, définir des alarmes, créer des rappels et bien plus.</string>
+  <!-- MOD Lock -->
 </resources>

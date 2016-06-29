@@ -26,4 +26,9 @@
   <string name="assist_hi">您好，我是 %s。</string>
   <string name="assist_nudge_notif_body_install">Cyanogen 集成了 %s 为您带来独一无二的功能，让事情变得更简单，以及让您保持知晓最新消息。</string>
   <string name="assist_nudge_notif_body_enable">选择启用后，Cortana 将成为您默认的个人助理。您将能够使用“Hey Cortana”语音命令来完成操作，设置闹钟，创建提醒以及完成更多事务。</string>
+  <!-- MOD Lock -->
+  <string name="mod_lock_title">锁屏模块</string>
+  <string name="mod_lock_subhead">加强您的锁屏</string>
+  <string name="mod_lock_message">在您的锁屏界面上直接体验社交和新闻。进入设置并启用您的锁屏模块。</string>
+  <string name="mod_lock_accept_action">设置</string>
 </resources>

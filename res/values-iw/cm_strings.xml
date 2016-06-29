@@ -26,4 +26,5 @@
   <string name="assist_hi">היי. אני %s.</string>
   <string name="assist_nudge_notif_body_install">Cyanogen שילבה את %s כדי לספק לך תכונות בלעדיות שיקלו עליך ויעדכנו אותך בכל הנושאים החשובים לך.</string>
   <string name="assist_nudge_notif_body_enable">הבחירה ב\"הפעל\" תהפוך את Cortana למסייעת האישית שלך כברירת המחדל, ותוכל להשתמש בפקודה הקולית \"היי Cortana\" כדי לבצע משימות, לכוון שעונים מעוררים, ליצור תזכורות ועוד.</string>
+  <!-- MOD Lock -->
 </resources>

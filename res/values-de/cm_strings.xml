@@ -26,4 +26,6 @@
   <string name="assist_hi">Hallo. Ich bin %s.</string>
   <string name="assist_nudge_notif_body_install">Cyanogen hat %s integriert, um exklusive Funktionen für Sie bereitzustellen, die die Dinge vereinfachen und Sie über das auf dem Laufenden halten, was wichtig ist.</string>
   <string name="assist_nudge_notif_body_enable">Wählen Sie Aktivieren aus, um Cortana zu Ihrer persönlichen Assistentin zu machen. Danach können Sie den Sprachbefehl \"Hey Cortana\" einsetzen, um Aufgaben zu erledigen, den Wecker zu stellen, Erinnerungen zu erstellen und vieles mehr.</string>
+  <!-- MOD Lock -->
+  <string name="mod_lock_accept_action">Einstellungen</string>
 </resources>
