@@ -31,4 +31,5 @@
         domyślną osobistą asystentką, którą uaktywnisz wypowiadając komendę \"Hej Cortana\",
         aby dokończyć zadania, ustawiać alarmy, przypomnienia i wiele więcej.</string>
   <!-- MOD Lock -->
+  <string name="mod_lock_accept_action">Ustawienia</string>
 </resources>
