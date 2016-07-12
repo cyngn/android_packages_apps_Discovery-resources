@@ -27,5 +27,8 @@
   <string name="assist_nudge_notif_body_install">Cyanogen hat %s integriert, um exklusive Funktionen für Sie bereitzustellen, die die Dinge vereinfachen und Sie über das auf dem Laufenden halten, was wichtig ist.</string>
   <string name="assist_nudge_notif_body_enable">Wählen Sie Aktivieren aus, um Cortana zu Ihrer persönlichen Assistentin zu machen. Danach können Sie den Sprachbefehl \"Hey Cortana\" einsetzen, um Aufgaben zu erledigen, den Wecker zu stellen, Erinnerungen zu erstellen und vieles mehr.</string>
   <!-- MOD Lock -->
+  <string name="mod_lock_title">Bildschirmsperren-Mods</string>
+  <string name="mod_lock_subhead">Werten Sie Ihren Sperrbildschirm auf</string>
+  <string name="mod_lock_message">Erleben Sie soziale &amp; News-Inhalte direkt auf Ihrem Sperrbildschirm. Gehen Sie zu den Einstellungen und aktivieren Sie Ihre Sperrbildschirm-MODs.</string>
   <string name="mod_lock_accept_action">Einstellungen</string>
 </resources>
