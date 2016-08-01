@@ -27,4 +27,7 @@
   <string name="assist_nudge_notif_body_install">Cyanogen שילבה את %s כדי לספק לך תכונות בלעדיות שיקלו עליך ויעדכנו אותך בכל הנושאים החשובים לך.</string>
   <string name="assist_nudge_notif_body_enable">הבחירה ב\"הפעל\" תהפוך את Cortana למסייעת האישית שלך כברירת המחדל, ותוכל להשתמש בפקודה הקולית \"היי Cortana\" כדי לבצע משימות, לכוון שעונים מעוררים, ליצור תזכורות ועוד.</string>
   <!-- MOD Lock -->
+  <string name="mod_lock_title">תוספי מסך נעילה</string>
+  <string name="mod_lock_message">חווה תוכן חדשותי וחברתי במסך הנעילה. גש להגדרות והפעל את מצב מסך הנעילה.</string>
+  <string name="mod_lock_accept_action">הגדרות</string>
 </resources>
