@@ -31,4 +31,5 @@
         förvalda personliga assistent och du kommer att kunna använda röstkommandot \"Hey Cortana\"
         för att utföra uppgifter, ställa in alarm, skapa påminnelser, och mycket mer.</string>
   <!-- MOD Lock -->
+  <string name="mod_lock_accept_action">Inställningar</string>
 </resources>
