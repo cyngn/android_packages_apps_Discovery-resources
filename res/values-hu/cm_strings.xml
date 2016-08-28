@@ -31,4 +31,8 @@
         alapértelmezett személyi asszisztense és használhatja majd a \"Hey Cortana\" hangutasítást,
         létrehozhat feladatokat, beállíthat riasztásokat, létrehozhat emlékeztetőket, és így tovább.</string>
   <!-- MOD Lock -->
+  <string name="mod_lock_title">Zárképernyő modok</string>
+  <string name="mod_lock_subhead">Turbózza fel a zárképernyőt</string>
+  <string name="mod_lock_message">Tapasztalja meg a közösségi- és hírtartalmakat közvetlenül a zárképernyőn. Nyissa meg a beállításokat a képernyőzár mod engedélyezéséhez.</string>
+  <string name="mod_lock_accept_action">Beállítások</string>
 </resources>
