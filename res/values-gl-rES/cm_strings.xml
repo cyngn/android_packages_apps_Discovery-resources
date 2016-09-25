@@ -16,6 +16,19 @@
      limitations under the License.
 -->
 <resources>
+  <string name="nudge_notif_not_now">Agora non</string>
+  <string name="nudge_notif_no">Non</string>
+  <string name="nudge_notif_enable">Activar</string>
+  <string name="nudge_notif_install">Instalar</string>
   <!-- Nudge strings -->
+  <string name="assist_nudge_notif_small_title">Coñece a %s</string>
+  <string name="assist_nudge_notif_small_body">O teu asistente persoal</string>
+  <string name="assist_hi">Ola, chámome %s.</string>
+  <string name="assist_nudge_notif_body_install">Cyanogen integrou %s para ofrecerlle características exclusivas que che facilitan as cousas e que che manteñen ao día no que importa.</string>
+  <string name="assist_nudge_notif_body_enable">Seleccionando activar, Cortana será o seu asistente por defecto e podrás utlizar o comando de voz \"Hey Cortana\" para realizar tarefas, configurar alarmas, crear recordatorios e moito mais</string>
   <!-- MOD Lock -->
+  <string name="mod_lock_title">Mods da pantalla de bloqueo</string>
+  <string name="mod_lock_subhead">Mellora e potencia a túa pantalla de bloqueo</string>
+  <string name="mod_lock_message">Goza de contido social e novas directamente na túa pantalla de bloqueo. Vai a axustes e activa os mods da pantalla de bloqueo.</string>
+  <string name="mod_lock_accept_action">Axustes</string>
 </resources>

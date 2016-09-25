@@ -28,6 +28,7 @@
   <string name="assist_nudge_notif_body_enable">Ved at vælge aktivér, bliver Cortana din standard personlige assistent og du vil være i stand til at bruge stemmekommandoen \"Hey Cortana\" til at udføre opgaver, indstille alarmer, oprette påmindelser og meget mere.</string>
   <!-- MOD Lock -->
   <string name="mod_lock_title">Skærmlåstilpasninger</string>
+  <string name="mod_lock_subhead">Ekstra power til din skærmlås</string>
   <string name="mod_lock_message">Oplev social &amp; nyhedsindhold direkte på din skærmlås. Gå til indstillinger og aktiver din skærmlåstilpasning.</string>
   <string name="mod_lock_accept_action">Indstillinger</string>
 </resources>
