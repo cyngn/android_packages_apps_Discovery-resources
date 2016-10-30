@@ -16,6 +16,8 @@
      limitations under the License.
 -->
 <resources>
+  <string name="nudge_notif_no">Ne</string>
+  <string name="nudge_notif_install">Instali</string>
   <!-- Nudge strings -->
   <!-- MOD Lock -->
 </resources>

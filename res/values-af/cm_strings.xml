@@ -31,4 +31,8 @@
         jou verstek persoonlike assistent word en jy sal in staat wees om \"Hey Cortana\" stem opdrag te gee
          om take uit te voer, alarms te stel, herinneringe te skep en meer.</string>
   <!-- MOD Lock -->
+  <string name="mod_lock_title">Slotskerm modifikasies</string>
+  <string name="mod_lock_subhead">Jou Slotskerm verryk</string>
+  <string name="mod_lock_message">Ervaar sosiale &amp; nuus inhoud direk op jou Slotskerm. Gaan na instellings en aktiveer jou slot skerm modifikasie.</string>
+  <string name="mod_lock_accept_action">Instellings</string>
 </resources>

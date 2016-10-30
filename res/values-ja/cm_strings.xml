@@ -16,6 +16,19 @@
      limitations under the License.
 -->
 <resources>
+  <string name="nudge_notif_not_now">後で</string>
+  <string name="nudge_notif_no">いいえ</string>
+  <string name="nudge_notif_enable">有効化</string>
+  <string name="nudge_notif_install">インストール</string>
   <!-- Nudge strings -->
+  <string name="assist_nudge_notif_small_title">%sに会う</string>
+  <string name="assist_nudge_notif_small_body">パーソナルアシスタント</string>
+  <string name="assist_hi">こんにちは。%sです。</string>
+  <string name="assist_nudge_notif_body_install">Cyanogenは物事を簡単化でき、重要事項を最新の状態に保つことができる独占的な機能を提供する%sを統合しました。</string>
+  <string name="assist_nudge_notif_body_enable">有効化を選択すると、Cortanaはデフォルトのパーソナルアシスタントになり、タスクの遂行、アラームの設定、リマインダーの作成などに[Hey Cortana]の音声コマンドを使用できるようになります。</string>
   <!-- MOD Lock -->
+  <string name="mod_lock_title">ロック画面MOD</string>
+  <string name="mod_lock_subhead">ロック画面を充実させる</string>
+  <string name="mod_lock_message">ソーシャルとニュースのコンテンツを直接ロック画面で体験することができます。設定に移動してロック画面Modを有効にしてください。</string>
+  <string name="mod_lock_accept_action">設定</string>
 </resources>
